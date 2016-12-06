@@ -72,7 +72,7 @@ ITEM_PIPELINES = {
 
 ## Mongo Database settings
 #MONGO_URI = "localhost"
-3MONGO_DATABASE = "EdgeCrawler"
+#MONGO_DATABASE = "EdgeCrawler"
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
